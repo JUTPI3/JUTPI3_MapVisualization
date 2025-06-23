@@ -1,4 +1,4 @@
-# JUTPI3 Transport Network Dashboard
+# JUTPI3 Future Public Transit Network Visualization and Dashboard for Jabodetabek (Jakarta Metropolitan Area), Indonesia
 
 This repository provides an interactive dashboard to visualize the **Future Public Transit Network Proposal in Jabodetabek (Jakarta Metropolitan Area), Indonesia**, as part of the JUTPI Phase-3 project.
 
@@ -32,6 +32,7 @@ You can embed this interactive map into your own website using the following `<i
 Note:
 Please adjust the width and height values according to the layout of your website or application.
 The default example above uses width: 100% and height: 750px for optimal visibility on most desktop screens.
+
 
 
 © 2025 JICA（Japan International Cooperation Agency), Japan & Coordinating Ministry for Economic Affairs, Republic of Indonesia.
