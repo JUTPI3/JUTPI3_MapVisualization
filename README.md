@@ -18,5 +18,17 @@ This dashboard offers a spatial overview of proposed public transit developments
 - Transfer and stop point visualization
 - Interactive layer controls
 
+### 🧩 Embed This Map on Your Website
+
+You can embed this interactive map into your own website using the following `<iframe>` snippet:
+
+```html
+<iframe 
+  src="https://jutpi3.github.io/JUTPI3_MapVisualization/" 
+  style="width: 100%; height: 750px; border: none;" 
+  title="JUTPI3 Transport Map">
+</iframe>
+```
+
 © 2025 JICA（Japan International Cooperation Agency), Japan & Coordinating Ministry for Economic Affairs, Republic of Indonesia.
 Developed by the JUTPI Phase-3 Study Team.
