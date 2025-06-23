@@ -6,26 +6,34 @@
 
   <title>JUTPI Phase-3 Future Public Transit Network Visualization</title>
   <style>
+        /* Base layout for all devices */
         .map-container {
           position: relative;
           width: 100%;
-          padding-top: 66.66%;  /* Default for PC (3:2) */
           height: 0;
+          padding-top: 66.66%;  /* PCデフォルト: 3:2 */
+          overflow: hidden;
         }
 
         .map-container iframe {
           position: absolute;
-          top: 0;
-          left: 0;
+          top: 0; left: 0;
           width: 100%;
           height: 100%;
           border: none;
         }
 
-        /* 📱 スマホ（幅が768px以下）のときは縦長に */
-        @media (max-width: 768px) {
+        /* 📱 モバイル用レイアウト（幅768px以下） */
+        @media screen and (max-width: 768px) {
           .map-container {
-            padding-top: 120%; /* Taller for mobile */
+            padding-top: 120% !important;  /* 強制上書き */
+          }
+        }
+
+        /* 💻 超ワイドスクリーンにも対応（オプション） */
+        @media screen and (min-width: 1400px) {
+          .map-container {
+            padding-top: 55%;  /* PC横長モニターに最適化（Optional） */
           }
         }
       </style>
