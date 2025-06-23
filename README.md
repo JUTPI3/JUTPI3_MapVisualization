@@ -10,7 +10,7 @@ This repository provides an interactive dashboard to visualize the **Future Publ
 
 ## 🔍 About This Project
 
-**JUTPI Phase-3 (2022–2025)** is a technical cooperation project jointly promoted by the **Japan International Cooperation Agency (JICA)** and the **Coordinating Ministry for Economic Affairs (CMEA), Republic of Indonesia**, aiming to develop integrated urban transport policies and TOD (Transit-oriented development) promotion in the Jakarta metropolitan region (Jabodetabek).
+**JABODETABEK Urban Transportation Policy Integration Project Phase 3 (JUTPI Phase-3: 2022-2025)** is a technical cooperation project jointly promoted by the **Japan International Cooperation Agency (JICA)** and the **Coordinating Ministry for Economic Affairs (CMEA), Republic of Indonesia**, aiming to develop integrated urban transport policies and TOD (Transit-oriented development) promotion in the Jakarta metropolitan region (Jabodetabek).
 
 This dashboard offers a spatial overview of proposed public transit developments by the year 2045, including:
 - Proposed and existing lines by mode (Transjakarta, MRT, LRT, KCI, etc.)
