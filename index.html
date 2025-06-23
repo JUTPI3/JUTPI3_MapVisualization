@@ -5,6 +5,30 @@
 <style>body{background-color:white;}</style>
 
   <title>JUTPI Phase-3 Future Public Transit Network Visualization</title>
+  <style>
+        .map-container {
+          position: relative;
+          width: 100%;
+          padding-top: 66.66%;  /* Default for PC (3:2) */
+          height: 0;
+        }
+
+        .map-container iframe {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          border: none;
+        }
+
+        /* 📱 スマホ（幅が768px以下）のときは縦長に */
+        @media (max-width: 768px) {
+          .map-container {
+            padding-top: 120%; /* Taller for mobile */
+          }
+        }
+      </style>
 </head>
 <body>
 
@@ -22,8 +46,8 @@
   </p>
 </div>
 
-<div style="position: relative; width: 100%; padding-top: 100%; height: 0;">
-  <iframe src="map_temp.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" title="JUTPI3 Transport Map"></iframe>
+<div class="map-container">
+  <iframe src="map_temp.html" title="JUTPI3 Transport Map"></iframe>
 </div>
 
 <div style="padding: 12px; font-size: 12px; text-align: left; background-color: #f2f2f2; border-top: 1px solid #ccc;">
