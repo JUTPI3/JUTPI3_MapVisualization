@@ -29,6 +29,10 @@ You can embed this interactive map into your own website using the following `<i
   title="JUTPI3 Transport Map">
 </iframe>
 ```
+Note:
+Please adjust the width and height values according to the layout of your website or application.
+The default example above uses width: 100% and height: 750px for optimal visibility on most desktop screens.
+
 
 © 2025 JICA（Japan International Cooperation Agency), Japan & Coordinating Ministry for Economic Affairs, Republic of Indonesia.
 Developed by the JUTPI Phase-3 Study Team.
