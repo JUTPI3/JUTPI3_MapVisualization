@@ -36,7 +36,7 @@ The default example above uses width: 100% and height: 750px for optimal visibil
 
 
 © 2025 JICA（Japan International Cooperation Agency), Japan & Coordinating Ministry for Economic Affairs, Republic of Indonesia.
-Developed by the JUTPI Phase-3 Study Team (Yuma TSUMURA, Oriental Consultants Global. Co. Ltd.)
+Developed and designed by the JUTPI Phase-3 Study Team (Yuma TSUMURA, Oriental Consultants Global. Co. Ltd.) in collaboration with FDTJ (Forum Diskusi Transportasi Jakarta), Indonesia.
 
 This repository is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license. You are free to share and embed the interactive map for **non-commercial and informational purposes only**. Any other uses—including downloading, redistributing, modifying, or incorporating this work into commercial platforms—are strictly prohibited without prior written consent.
 
