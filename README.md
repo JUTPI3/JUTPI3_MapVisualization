@@ -21,7 +21,6 @@ This interactive map offers a spatial overview of proposed public transit develo
 - Interactive layer controls
 
 Note: This visualization of public transit lines and stops was developed at the metropolitan master-plan scale and is not intended for detailed engineering purposes.
-Catatan: Visualisasi jaringan dan halte transportasi publik ini dikembangkan pada skala rencana induk metropolitan dan tidak dimaksudkan untuk tujuan rekayasa teknis secara rinci.
 
 
 ### 🧩 Embed This Map on Your Website
