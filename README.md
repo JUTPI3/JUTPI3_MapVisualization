@@ -3,7 +3,9 @@
 This repository provides an interactive dashboard to visualize the **Future Public Transit Network Proposal in Jabodetabek (Jakarta Metropolitan Area), Indonesia**, as part of the JUTPI Phase-3 project.
 
 📍 JUTPI3 Designed Route Map: [🌐 Click here](https://www.ekon.go.id/publikasi/peta-jaringan)
+
 📍 JUTPI3 Online Map Visualization: [🌐 Click here](https://jutpi3.github.io/JUTPI3_MapVisualization/)
+
 📍 JUTPI3 Dashboard with Online Map Visualization: [🌐 Click here](https://www.ekon.go.id/publikasi/dashboard-jaringan)
 
 ---
