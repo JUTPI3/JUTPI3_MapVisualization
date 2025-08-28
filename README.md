@@ -4,9 +4,7 @@ This repository provides an interactive dashboard to visualize the **Future Publ
 
 📍 JUTPI3 Designed Route Map: [🌐 Click here](https://www.ekon.go.id/publikasi/peta-jaringan)
 
-📍 JUTPI3 Online Map Visualization: [🌐 Click here](https://jutpi3.github.io/JUTPI3_MapVisualization/)
-
-📍 JUTPI3 Dashboard with Map Visualization: [🌐 Click here](https://jutpi3.shinyapps.io/JUTPI3_Dashboard/)
+📍 JUTPI3 Dashboard with Map Visualization: [🌐 Click here](https://www.ekon.go.id/publikasi/dashboard-jaringan)
 
 ---
 
